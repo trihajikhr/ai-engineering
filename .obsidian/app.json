@@ -13,6 +13,6 @@
   "strictLineBreaks": false,
   "useMarkdownLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./src",
   "newLinkFormat": "relative"
 }

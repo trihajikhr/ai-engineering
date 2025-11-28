@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiCode2",
       "LiKeyboard",
       "LiBrainCircuit",
-      "LiCpu",
-      "LiTrash"
+      "LiCpu"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -449,5 +449,12 @@
   "Codeforces-Death Ground/900/133A-HQ9+.md": "LiCode2",
   "Codeforces-Death Ground/900/405A-Gravity Flip.md": "LiCode2",
   "Codeforces-Death Ground/900/208A-Dubstep.md": "LiCode2",
-  "Codeforces-Death Ground/900/580A-Kefa and First Steps.md": "LiCode2"
+  "Codeforces-Death Ground/900/580A-Kefa and First Steps.md": "LiCode2",
+  "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/About-this-course.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/Course-design.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/Earn-a-credential!.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/About-this-module.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/What-is-ai.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/Difference-between-ai-and-augmented-intelligence.md": "LiNotebookPen",
+  "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/What-does-ai-do.md": "LiNotebookPen"
 }
