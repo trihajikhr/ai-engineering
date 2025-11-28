@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "e4ea98e908d5f962",
+    "type": "split",
+    "children": [
+      {
+        "id": "464f75915d5c3dd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ffc19c1865a42c1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "71ab4d8a40d40d2b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a855843f66f6229f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "047fdaf98d210095",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82e368ee9c464ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04554e08cc1bd94b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "601fc64f077fb420",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b0aa742f2de9d7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "5a2e04e3f27c45d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db22185f832f694",
+        "type": "tabs",
+        "dimension": 28.57142857142857,
+        "children": [
+          {
+            "id": "ddbc58e96e17e8dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04-Data Structure/D-Queue/01-Queue Data Structure (geeksforgeeks.org).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-Queue Data Structure (geeksforgeeks.org)"
+            }
+          },
+          {
+            "id": "f75449668ba3cf32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "93efce7ac2eff4c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "406e6c1b3ee859cd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "085bcb1cec5430c0",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tags-overview-view"
+            }
+          },
+          {
+            "id": "79043daadebb42d8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "879b1d710b9777af",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8=",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "aHR0cHM6Ly9jaGF0Z3B0LmNvbS8="
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7cf76667223e7faa",
+        "type": "tabs",
+        "dimension": 71.42857142857143,
+        "children": [
+          {
+            "id": "b926b8ed78989612",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "!Important Notes/ATURAN PENERJEMAHAN.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ATURAN PENERJEMAHAN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dashboard-navigator:Open dashboard navigator": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "tags-overview:Tags overview": false,
+      "open-gate:ChatGPT": false,
+      "iconic:Open rulebook": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a855843f66f6229f",
+  "lastOpenFiles": [
+    "DELIBERATE PRACTICE/1% Programmer/How to Get Ahead of 99% of Software Engineers (in 2025).md",
+    "DELIBERATE PRACTICE/1% Programmer/Z-IMG/Never Do these! If you want to get out of Newbie-2.png",
+    "DELIBERATE PRACTICE/1% Programmer/Z-IMG/Never Do these! If you want to get out of Newbie-1.png",
+    "DELIBERATE PRACTICE/1% Programmer/ThePrimeTime/Untitled.md",
+    "DELIBERATE PRACTICE/1% Typer/How to Type 3x Faster in 7 Days (from a Med Student).md",
+    "DELIBERATE PRACTICE/1% Typer/How I Type REALLY Fast (156 Words per Minute).md",
+    "DELIBERATE PRACTICE/1% Typer/100 Pecahan Kata.md",
+    "Codeforces-Death Ground/900/337A-Puzzles.md",
+    "Codeforces-Death Ground/Soal 900.md",
+    "Codeforces-Death Ground/900/580A-Kefa and First Steps.md",
+    "Codeforces-Death Ground/900/208A-Dubstep.md",
+    "Codeforces-Death Ground/900/405A-Gravity Flip.md",
+    "Codeforces-Death Ground/900/133A-HQ9+.md",
+    "Codeforces-Death Ground/900/Untitled.md",
+    "Codeforces-Death Ground/900/318A-Even Odds.md",
+    "Codeforces-Death Ground/900/160A-Twins.md",
+    "Codeforces-Death Ground/900/96A-Football.md",
+    "Z Templater/Materi.md",
+    "Codeforces-Death Ground/900/115A-Party.md",
+    "!Important Notes/My Task.md",
+    "DELIBERATE PRACTICE/1% Programmer/Algorithm with Shayan/Never Do these! If you want to get out of Newbie.md",
+    "DELIBERATE PRACTICE/1% Programmer/Algorithm with Shayan/6 Mistakes in Learning Competitive Programming.md",
+    "Z Templater/1% Improvement.md",
+    "DELIBERATE PRACTICE/1% Programmer/Algorithm with Shayan/Instead, Do These! If you want to get out of Newbie....md",
+    "DELIBERATE PRACTICE/1% Programmer/Algorithm with Shayan/From Newbie to Expert in 3 Months - 100% works!.md",
+    "Codeforces-Death Ground/CP-ENDER/1996C-Sort.md",
+    "Codeforces-Death Ground/CP-ENDER/1559C-Mocha and Hiking.md",
+    "Codeforces-Death Ground/CP-ENDER",
+    "Z Templater/Metode DEATH.md",
+    "LeetCode-Contest/Easy-level",
+    "01-Basic Geometry-4.png",
+    "01-Basic Geometry-3.png",
+    "01-Basic Geometry-2.png",
+    "01-Basic Geometry-1.png",
+    "Pasted image 20251105214824.png",
+    "01-Basic Geometry-3.png",
+    "01-Basic Geometry-2.png",
+    "01-Basic Geometry-1.png",
+    "CP-Algorithm Site/08-Geometry/01-Elementary operations",
+    "CP-Algorithm Site/08-Geometry",
+    "30-Sweep Line Algorithm",
+    "29-Geometry",
+    "28-Segment Trees Revisited",
+    "27-Square Root Algorithm",
+    "24-Probability",
+    "23-Matrices",
+    "DELIBERATE PRACTICE/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Canvas/01-introduction.canvas",
+    "Pohon Competitive Programming.canvas",
+    "ZZZ Uncotegorized file/Big plan.canvas",
+    "Mata Kuliah Terkait/Semester 1/1. Manajemen data dan Informasi/modelbisnis.canvas",
+    "Mata Kuliah Terkait/Semester 1/1. Manajemen data dan Informasi/Tanpa judul.canvas"
+  ]
+}
