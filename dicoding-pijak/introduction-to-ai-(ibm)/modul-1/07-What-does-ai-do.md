@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-note_type: Theory
+note_type: theory
 judul_materi: What does AI do?
 sumber:
   - ibm.skillsbuild

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-note_type: Theory
+note_type: theory
 judul_materi: What is the difference between AI and augmented intelligence?
 sumber:
   - ibm.skillsbuild

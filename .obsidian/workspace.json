@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a855843f66f6229f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/Difference-between-ai-and-augmented-intelligence.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Difference-between-ai-and-augmented-intelligence"
-            }
-          },
-          {
             "id": "36bc04b4b317ec42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dicoding-pijak/ai-courses.md",
-                "mode": "preview",
+                "file": "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-3/16-Summary.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai-courses"
+              "title": "16-Summary"
+            }
+          },
+          {
+            "id": "ebe7019ec07dd676",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dicoding-pijak/ai-ethics-(ibm)/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -68,11 +68,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pre-training",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 210.5
   },
   "right": {
     "id": "5a2e04e3f27c45d3",
@@ -239,53 +239,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04554e08cc1bd94b",
+  "active": "ebe7019ec07dd676",
   "lastOpenFiles": [
-    "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/About-this-course.md",
-    "dicoding-pijak/ai-courses.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/What-does-ai-do.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/Difference-between-ai-and-augmented-intelligence.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/src/What-does-ai-do-3.png",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/src/What-does-ai-do-2.png",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/src/What-does-ai-do-1.png",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/src",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/About-this-module.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1/What-is-ai.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/Earn-a-credential!.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/course-overview/Course-design.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/modul-1",
-    "Templater/Materi.md",
-    "dicoding-pijak/introduction-to-ai-(ibm)/course-overview",
-    "Untitled/Untitled.md",
-    "Templater",
-    "dicoding-pijak/introduction-to-ai-(ibm)",
-    "dicoding-pijak",
-    "Untitled",
-    "DELIBERATE PRACTICE/1% Programmer/How to Get Ahead of 99% of Software Engineers (in 2025).md",
-    "DELIBERATE PRACTICE/1% Programmer/Z-IMG/Never Do these! If you want to get out of Newbie-2.png",
-    "DELIBERATE PRACTICE/1% Programmer/Z-IMG/Never Do these! If you want to get out of Newbie-1.png",
-    "DELIBERATE PRACTICE/1% Programmer/ThePrimeTime/Untitled.md",
-    "DELIBERATE PRACTICE/1% Typer/How to Type 3x Faster in 7 Days (from a Med Student).md",
-    "DELIBERATE PRACTICE/1% Typer/How I Type REALLY Fast (156 Words per Minute).md",
-    "DELIBERATE PRACTICE/1% Typer/100 Pecahan Kata.md",
-    "Codeforces-Death Ground/900/337A-Puzzles.md",
-    "Codeforces-Death Ground/Soal 900.md",
-    "Codeforces-Death Ground/900/580A-Kefa and First Steps.md",
-    "Codeforces-Death Ground/900/208A-Dubstep.md",
-    "Codeforces-Death Ground/900/405A-Gravity Flip.md",
-    "Codeforces-Death Ground/900/133A-HQ9+.md",
-    "Codeforces-Death Ground/900/Untitled.md",
-    "Codeforces-Death Ground/900/318A-Even Odds.md",
-    "Codeforces-Death Ground/900/160A-Twins.md",
-    "Codeforces-Death Ground/900/96A-Football.md",
-    "Codeforces-Death Ground/CP-ENDER",
-    "LeetCode-Contest/Easy-level",
-    "01-Basic Geometry-4.png",
-    "01-Basic Geometry-3.png",
-    "01-Basic Geometry-2.png",
-    "01-Basic Geometry-1.png",
-    "Pasted image 20251105214824.png",
-    "CP-Algorithm Site/08-Geometry/01-Elementary operations",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-1/04-Can AI be trusted.md",
+    "dicoding-pijak/ai-ethics-(ibm)/Untitled.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-1/03-The age of AI.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-1/02-About this module.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/06-Meet the team.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/07-Identify the issue.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/src/07-Identify the issue-3.png",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/src/07-Identify the issue-2.png",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/src/07-Identify the issue-1.png",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/src/06-Meet the team-1.png",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/src",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2/05-About this module.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-2",
+    "dicoding-pijak/ai-ethics-(ibm)/course-overview/01-About this course.md",
+    "dicoding-pijak/ai-ethics-(ibm)/modul-1",
+    "dicoding-pijak/Untitled.md",
+    "dicoding-pijak/ai-ethics-(ibm)/course-overview",
+    "dicoding-pijak/ai-ethics",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-3/16-Summary.md",
+    "dicoding-pijak/ai-ethics-(ibm)",
+    "PENTING PERLU PELAJARI.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-3/15-About this lesson.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/08-Foundation models.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-3",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/14-Risks and ethical concerns.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/13-Encoders and decoders.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/13-Encoders and decoders-4.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/13-Encoders and decoders-3.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/13-Encoders and decoders-2.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/13-Encoders and decoders-1.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/12-Transformers.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/11-Embeddings.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/11-Embeddings-3.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src/11-Embeddings-2.png",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/10-Tokenization.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/09-Large language models.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/src",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2/07-About this lesson.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-1/06-Evolution of generative AI.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-2",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-1/05-What is generative AI.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-1/src",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/modul-1/04-About this lesson Introduction to generative AI.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/course-overview/03-Course design.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/course-overview/02-Learning objectives.md",
+    "dicoding-pijak/introduction-to-generative-ai-(ibm)/course-overview/01-About this module.md",
     "DELIBERATE PRACTICE/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

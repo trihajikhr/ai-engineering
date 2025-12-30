@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-note_type: Theory
+note_type: theory
 judul_materi: Course design
 sumber:
   - ibm.skillsbuild

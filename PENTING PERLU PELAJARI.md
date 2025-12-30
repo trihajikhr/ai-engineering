@@ -1,0 +1,1 @@
+- [ ] Pelajari menggunakan AI Lab di [Training Overview](https://alm.ibm.com/ibm-skillsbuildadult/trainingId/course:4058859/trainingInstanceId/course:4058859_4630654/en-US)

@@ -1,6 +1,6 @@
 ---
 obsidianUIMode: preview
-note_type: Theory
+note_type: theory
 judul_materi: About this course
 sumber:
   - ibm.skillsbuild
